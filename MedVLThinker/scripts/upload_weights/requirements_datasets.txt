@@ -1,0 +1,4 @@
+# Requirements for upload_datasets.py
+huggingface_hub>=0.16.0
+datasets>=2.0.0
+# Note: git-lfs should be installed system-wide for handling large files
